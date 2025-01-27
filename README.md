@@ -13,20 +13,18 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-<div style="display: flex; align-items: center;">
+<div style="display: inline-flex; align-items: center; justify-content: center; width: 100%; flex-wrap: wrap; gap: 20px;">
 
-<p style="flex: 1; font-family: 'samp';">
-    <br><br>
-    Full stack developer
-    <br><br>
-    Focusing on building 
-    <br><br> 
-    Real World Applications
-</p>
+  <p style="flex: 1; font-family: 'samp'; font-size: 20px; min-width: 250px; text-align: center;">
+    🚀 Full Stack Developer <br><br>
+    💡 Passionate about building <br><br>
+    🌍 Real-World Applications
+  </p>
 
-<img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="160px" style="flex: 1;"/>
-
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="160px" style="flex: 1; min-width: 200px; max-width: 250px;">
+  
 </div>
+
 
 ## Technology Stack 💻
 
