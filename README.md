@@ -83,14 +83,14 @@
 
 <br>
 <p align='center'>
-<a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
+<a href="mailto:saugatbaral122@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
+<a href="https://www.linkedin.com/in/saugat-baral-95b4a1271/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
+<a href="https://www.reddit.com/user/Wise_Schedule_8160/" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/your-profile" target="_blank">
@@ -161,11 +161,9 @@
 
 <div align="center">
 <h2>Find me on</h2>
-   <a href="https://www.linkedin.com/in/rejens-rayamajhi-005297268/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/rejens_" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/twitter-3.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/rizzz.ansss/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.kaggle.com/rejensrayamajhi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
-   <a href="https://github.com/rejens" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/saugat-baral-95b4a1271/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/saugat_barall/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/instagram-2-1.svg"></a>&nbsp;&nbsp;
+   <a href="https://github.com/saugat21" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github-1.svg"></a>&nbsp;&nbsp;
 </div>
 
 
